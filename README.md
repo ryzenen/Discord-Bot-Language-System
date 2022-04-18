@@ -1,4 +1,4 @@
-# Discord Bot Language System 
+# Discord Bot Language System 📢
 
 Paste your main file:
 
