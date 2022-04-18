@@ -1,5 +1,7 @@
 # Discord Bot Language System 📢
 
+[![GitHub issues](https://img.shields.io/github/issues/ryzenen/Discord-Bot-Language-System.svg)](https://github.com/ryzenen/Discord-Bot-Language-System/issues) [![GitHub forks](https://img.shields.io/github/forks/ryzenen/Discord-Bot-Language-System.svg)](https://github.com/ryzenen/Discord-Bot-Language-System/network) [![GitHub stars](https://img.shields.io/github/stars/ryzenen/Discord-Bot-Language-System.svg)](https://github.com/ryzenen/Discord-Bot-Language-System/stargazers) [![GitHub license](https://img.shields.io/github/license/ryzenen/Discord-Bot-Language-System.svg)](https://github.com/ryzenen/Discord-Bot-Language-System/blob/master/LICENSE)
+
 Paste your main file:
 
 ```js
